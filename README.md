@@ -1,4 +1,4 @@
-
+6
 # ¡Hola! Soy Jorge Nieto 👋
 
 ### Financial Data Scientist | Control de Gestión & Analítica de Costos
@@ -49,6 +49,6 @@ Modelo predictivo de Machine Learning entrenado para proyectar la demanda comerc
 
 ## 📬 Conectemos
 
-*   **LinkedIn:**(https://www.://linkedin.com/in/nietojorge/)
+*   **LinkedIn:** https://www.linkedin.com/in/nietojorge
 *   **Email:** [jorge.nieto92@outlook.com](mailto:jorge.nieto92@outlook.com)
 *   **Ubicación:** Córdoba / Catamarca, Argentina 🇦🇷 (Disponibilidad Remota)
