@@ -49,6 +49,6 @@ Modelo predictivo de Machine Learning entrenado para proyectar la demanda comerc
 
 ## 📬 Conectemos
 
-*   **LinkedIn:**(https://www.://linkedin.com/nietojorge/)
+*   **LinkedIn:**(https://www.://linkedin.com/in/nietojorge/)
 *   **Email:** [jorge.nieto92@outlook.com](mailto:jorge.nieto92@outlook.com)
 *   **Ubicación:** Córdoba / Catamarca, Argentina 🇦🇷 (Disponibilidad Remota)
